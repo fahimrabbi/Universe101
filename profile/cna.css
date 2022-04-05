@@ -1,0 +1,43 @@
+body{
+    background-image: url(wow.jpg);
+    background-size: cover;
+}
+.class{
+    font-size: 25px;
+    background-color: #fff;
+    color: #dc5373;
+    padding: 13px 0px;
+    width: 100%;
+    max-width: 300px;
+    border-radius: 25px;
+    transition: ease-in all 0.5s;
+    margin:auto;
+    margin-top: 300px;
+    text-align: center;
+
+    
+}
+.class:hover{
+    background-color: #000;
+     color: #fff;
+     transition: ease-in all 0.5s;
+     border-radius: 26px;
+}
+.glass{
+    font-size: 25px;
+    background-color: #fff;
+    color: #dc5373;
+    padding: 13px 0px;
+    width: 100%;
+    max-width: 300px;
+    border-radius: 25px;
+    transition: ease-in all 0.5s;
+    margin: auto;
+    text-align: center;
+}
+.glass:hover{
+    background-color: #000;
+     color: #fff;
+     transition: ease-in all 0.5s;
+     border-radius: 26px;
+}
